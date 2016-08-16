@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://WWW.I4TA.COM</licenseUrl>
+    <projectUrl>http://WWW.I4TA.COM</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>WHICH DESIGN FOR WEB API INVOKE.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>ServiceClient WebApiInvoker</tags>
+  </metadata>
+</package>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Message", "RFramework.Message\RFramework.Message.csproj", "{5160100E-F2F5-4875-8C2A-B8D1553BCE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.ServiceClient", "RFramework.ServiceClient\RFramework.ServiceClient.csproj", "{3430B7E8-F258-4460-9CFB-A37147349825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5160100E-F2F5-4875-8C2A-B8D1553BCE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5160100E-F2F5-4875-8C2A-B8D1553BCE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5160100E-F2F5-4875-8C2A-B8D1553BCE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5160100E-F2F5-4875-8C2A-B8D1553BCE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3430B7E8-F258-4460-9CFB-A37147349825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3430B7E8-F258-4460-9CFB-A37147349825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3430B7E8-F258-4460-9CFB-A37147349825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3430B7E8-F258-4460-9CFB-A37147349825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

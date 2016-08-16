@@ -1,0 +1,4 @@
+E:\R\RFramework\RFramework\RFramework.Message\bin\Release\RFramework.Message.dll
+E:\R\RFramework\RFramework\RFramework.Message\bin\Release\RFramework.Message.pdb
+E:\R\RFramework\RFramework\RFramework.Message\obj\Release\RFramework.Message.dll
+E:\R\RFramework\RFramework\RFramework.Message\obj\Release\RFramework.Message.pdb

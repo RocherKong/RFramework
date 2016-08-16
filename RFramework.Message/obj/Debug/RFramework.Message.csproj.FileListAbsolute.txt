@@ -1,0 +1,9 @@
+E:\R\RFramework\RFramework.Message\RFramework.Message\bin\Debug\RFramework.Message.dll
+E:\R\RFramework\RFramework.Message\RFramework.Message\bin\Debug\RFramework.Message.pdb
+E:\R\RFramework\RFramework.Message\RFramework.Message\obj\Debug\RFramework.Message.csprojResolveAssemblyReference.cache
+E:\R\RFramework\RFramework.Message\RFramework.Message\obj\Debug\RFramework.Message.dll
+E:\R\RFramework\RFramework.Message\RFramework.Message\obj\Debug\RFramework.Message.pdb
+E:\R\RFramework\RFramework\RFramework.Message\bin\Debug\RFramework.Message.dll
+E:\R\RFramework\RFramework\RFramework.Message\bin\Debug\RFramework.Message.pdb
+E:\R\RFramework\RFramework\RFramework.Message\obj\Debug\RFramework.Message.dll
+E:\R\RFramework\RFramework\RFramework.Message\obj\Debug\RFramework.Message.pdb
