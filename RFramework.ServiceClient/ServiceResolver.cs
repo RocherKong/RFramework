@@ -36,7 +36,7 @@ namespace RFramework.ServiceClient
         {
             using (HttpClient client = new HttpClient())
             {
-                string serviceApi = String.Format("{0}?Token={1}", Context.Config.ServiceConfigApi);
+                string serviceApi = String.Format("{0}?Token={1}", Context.Config.ServiceConfigApi,Context.ApiToken);
                 string respStr = client.GetStringAsync(serviceApi).Result;
                 var resp = JsonConvert.DeserializeObject<ResponseMessageWrap<ServiceConfigResponse>>(respStr);
                 if (resp.ErrorCode == Context.FailureTokenCode)
