@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Message", "RFram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.ServiceClient", "RFramework.ServiceClient\RFramework.ServiceClient.csproj", "{3430B7E8-F258-4460-9CFB-A37147349825}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Cache", "RFramework.Cache\RFramework.Cache.csproj", "{269EB3F9-820D-49C4-8284-79F90ADD7FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Provider", "RFramework.Provider\RFramework.Provider.csproj", "{20997077-1D8F-4B21-898A-C4793A3EF7F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3430B7E8-F258-4460-9CFB-A37147349825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3430B7E8-F258-4460-9CFB-A37147349825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3430B7E8-F258-4460-9CFB-A37147349825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269EB3F9-820D-49C4-8284-79F90ADD7FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269EB3F9-820D-49C4-8284-79F90ADD7FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269EB3F9-820D-49C4-8284-79F90ADD7FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269EB3F9-820D-49C4-8284-79F90ADD7FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
