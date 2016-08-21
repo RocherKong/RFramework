@@ -1,5 +1,4 @@
 E:\R\RFramework\RFramework.Provider\bin\Release\RFramework.Provider.dll
 E:\R\RFramework\RFramework.Provider\bin\Release\RFramework.Provider.pdb
-E:\R\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.csprojResolveAssemblyReference.cache
 E:\R\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.dll
 E:\R\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.pdb
