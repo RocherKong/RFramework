@@ -1,5 +1,11 @@
 E:\R\RFramework\RFramework.Cache\bin\Release\RFramework.Cache.dll
 E:\R\RFramework\RFramework.Cache\bin\Release\RFramework.Cache.pdb
+E:\R\RFramework\RFramework.Cache\bin\Release\RFramework.Provider.dll
 E:\R\RFramework\RFramework.Cache\obj\Release\RFramework.Cache.csprojResolveAssemblyReference.cache
 E:\R\RFramework\RFramework.Cache\obj\Release\RFramework.Cache.dll
 E:\R\RFramework\RFramework.Cache\obj\Release\RFramework.Cache.pdb
+E:\R\RFramework\RFramework.Cache\bin\Release\Newtonsoft.Json.dll
+E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.dll
+E:\R\RFramework\RFramework.Cache\bin\Release\Newtonsoft.Json.xml
+E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.pdb
+E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.xml

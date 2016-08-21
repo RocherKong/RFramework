@@ -70,7 +70,7 @@ namespace RFramework.ServiceClient
                 AuthRequest reqMsg = new AuthRequest
                 {
                     AppId = AppId,
-                    AppSercet = AppSecret
+                    AppSecret = AppSecret
                 };
                 //Install-Package Microsoft.AspNet.WebApi.Client 
                 HttpResponseMessage resp = client.PostAsJsonAsync<AuthRequest>(ServiceAuth, reqMsg).Result;
