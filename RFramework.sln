@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Cache", "RFramew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Provider", "RFramework.Provider\RFramework.Provider.csproj", "{20997077-1D8F-4B21-898A-C4793A3EF7F4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{626DB107-AF44-4032-8B90-B7C3B286A146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Test", "RFramework.Test\RFramework.Test.csproj", "{24579364-47D1-425D-A5EE-49802C471F6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +37,15 @@ Global
 		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20997077-1D8F-4B21-898A-C4793A3EF7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24579364-47D1-425D-A5EE-49802C471F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24579364-47D1-425D-A5EE-49802C471F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24579364-47D1-425D-A5EE-49802C471F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24579364-47D1-425D-A5EE-49802C471F6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24579364-47D1-425D-A5EE-49802C471F6A} = {626DB107-AF44-4032-8B90-B7C3B286A146}
 	EndGlobalSection
 EndGlobal

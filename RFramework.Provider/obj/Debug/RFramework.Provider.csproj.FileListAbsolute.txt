@@ -1,0 +1,4 @@
+E:\R\RFramework\RFramework.Provider\bin\Debug\RFramework.Provider.dll
+E:\R\RFramework\RFramework.Provider\bin\Debug\RFramework.Provider.pdb
+E:\R\RFramework\RFramework.Provider\obj\Debug\RFramework.Provider.dll
+E:\R\RFramework\RFramework.Provider\obj\Debug\RFramework.Provider.pdb

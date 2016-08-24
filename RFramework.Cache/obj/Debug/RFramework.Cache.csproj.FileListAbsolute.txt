@@ -1,0 +1,10 @@
+E:\R\RFramework\RFramework.Cache\bin\Debug\RFramework.Cache.dll
+E:\R\RFramework\RFramework.Cache\bin\Debug\RFramework.Cache.pdb
+E:\R\RFramework\RFramework.Cache\bin\Debug\Newtonsoft.Json.dll
+E:\R\RFramework\RFramework.Cache\bin\Debug\RFramework.Provider.dll
+E:\R\RFramework\RFramework.Cache\bin\Debug\StackExchange.Redis.dll
+E:\R\RFramework\RFramework.Cache\bin\Debug\Newtonsoft.Json.xml
+E:\R\RFramework\RFramework.Cache\bin\Debug\StackExchange.Redis.pdb
+E:\R\RFramework\RFramework.Cache\bin\Debug\StackExchange.Redis.xml
+E:\R\RFramework\RFramework.Cache\obj\Debug\RFramework.Cache.dll
+E:\R\RFramework\RFramework.Cache\obj\Debug\RFramework.Cache.pdb

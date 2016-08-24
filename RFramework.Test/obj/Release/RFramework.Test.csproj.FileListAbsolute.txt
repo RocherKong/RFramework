@@ -1,0 +1,16 @@
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Test.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Test.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Cache.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Provider.dll
+E:\R\RFramework\RFramework.Test\bin\Release\StackExchange.Redis.dll
+E:\R\RFramework\RFramework.Test\bin\Release\Newtonsoft.Json.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Cache.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Provider.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\StackExchange.Redis.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\StackExchange.Redis.xml
+E:\R\RFramework\RFramework.Test\bin\Release\Newtonsoft.Json.xml
+E:\R\RFramework\RFramework.Test\bin\Release\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.csprojResolveAssemblyReference.cache
+E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.dll
+E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.pdb

@@ -1,0 +1,17 @@
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Test.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Test.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Cache.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Provider.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\StackExchange.Redis.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\Newtonsoft.Json.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Cache.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Provider.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\StackExchange.Redis.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\StackExchange.Redis.xml
+E:\R\RFramework\RFramework.Test\bin\Debug\Newtonsoft.Json.xml
+E:\R\RFramework\RFramework.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.csprojResolveAssemblyReference.cache
+E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.dll
+E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\Config\Provider.xml

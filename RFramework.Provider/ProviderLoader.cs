@@ -108,11 +108,11 @@ namespace RFramework.Provider
             [XmlAttribute]
             public String Type { get; set; }
 
-            public IList<Parameter> Parameters { get; set; }
+            public List<Parameter> Parameters { get; set; }
             [XmlIgnore]
-            public String TypeName { get { return Type.Split(';')[0]; } }
+            public String TypeName { get { return Type.Split(',')[0]; } }
             [XmlIgnore]
-            public String AssemblyString { get { return Type.Split(';')[1]; } }
+            public String AssemblyString { get { return Type.Split(',')[1]; } }
         }
 
         public class Parameter
