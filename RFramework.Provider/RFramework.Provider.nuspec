@@ -10,8 +10,8 @@
     <projectUrl>http://www.i4ta.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>GET THE INSTANCE OF RFramework Component.</releaseNotes>
+    <releaseNotes>update cache provider.</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>Provider RFrameworkProvider</tags>
+    <tags>ProviderLoader Provider</tags>
   </metadata>
 </package>

@@ -3,7 +3,7 @@
   <Providers>
     <Provider Name="RedisCacheProvider" Type="RFramework.Cache.Impl.RedisCacheProvider,RFramework.Cache">
       <Parameters>
-        <Parameter Key="ConnectionString" Value="test.store.51mydao.com,password=b0db62a2939741f3ba560ca6861bc582"/>
+        <Parameter Key="ConnectionString" Value="127.0.0.1:10001,password=foobared"/>
       </Parameters>
     </Provider>
   </Providers>
