@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Http.Filters;
 using System.Web.Http.Controllers;
+using System.Net.Http;
 
 namespace RFramework.Filter
 {
@@ -24,5 +25,35 @@ namespace RFramework.Filter
             throw new RFramework.RException.RException("00004","Token 验证失效");
         }
 
+        private static bool SkipAuthorization(HttpActionContext actionContext)
+        {
+            if (!actionContext.ActionDescriptor.GetCustomAttributes<NoneTokenAttribute>().Any<NoneTokenAttribute>())
+            {
+                return actionContext.ControllerContext.ControllerDescriptor.GetCustomAttributes<NoneTokenAttribute>().Any<NoneTokenAttribute>();
+            }
+
+            return true;
+        }
+
+        protected virtual bool IsAuthorized(HttpActionContext actionContext)
+        {
+            KeyValuePair<String, String> obj_Token = actionContext.Request.GetQueryNameValuePairs().FirstOrDefault();
+            if (String.IsNullOrEmpty(obj_Token.Key))
+            {
+                throw new RException.RException("00005", "Token 不能为空");
+            }
+            bool isSuccess = CheckToken(obj_Token.Value);
+            return isSuccess;
+        }
+
+        private bool CheckToken(String TokenValue)
+        {
+            string CacheKey=CacheKey.get
+        }
+
+        public override void OnAuthorization(HttpActionContext actionContext)
+        {
+            base.OnAuthorization(actionContext);
+        }
     }
 }
