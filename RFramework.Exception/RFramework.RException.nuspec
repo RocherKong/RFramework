@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.i4ta.com</licenseUrl>
+    <projectUrl>http://www.i4ta.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Custom Exception For RFramework,You can use this componet to specify error occor in your Program use RFramework.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>RFramework RException</tags>
+  </metadata>
+</package>

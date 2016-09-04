@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{626DB107-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Test", "RFramework.Test\RFramework.Test.csproj", "{24579364-47D1-425D-A5EE-49802C471F6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Filter", "RFramework.Filter\RFramework.Filter.csproj", "{C8B868C0-7F15-45E6-9514-0B9804C2ED54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.RException", "RFramework.Exception\RFramework.RException.csproj", "{9F9209D7-6235-4787-BD13-1B18B065E284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,14 @@ Global
 		{24579364-47D1-425D-A5EE-49802C471F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24579364-47D1-425D-A5EE-49802C471F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24579364-47D1-425D-A5EE-49802C471F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B868C0-7F15-45E6-9514-0B9804C2ED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B868C0-7F15-45E6-9514-0B9804C2ED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B868C0-7F15-45E6-9514-0B9804C2ED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B868C0-7F15-45E6-9514-0B9804C2ED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9209D7-6235-4787-BD13-1B18B065E284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9209D7-6235-4787-BD13-1B18B065E284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9209D7-6235-4787-BD13-1B18B065E284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9209D7-6235-4787-BD13-1B18B065E284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

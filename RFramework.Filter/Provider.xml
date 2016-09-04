@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProviderConfig xmlns="http://i4ta.com/schemas/ProviderConfig.xsd">
+  <Providers Name="RedisCacheProvider" Type="ProviderName/Type">
+    <Parameters>
+      <Parameter key="ConnectionString" Value="192.168.1.1,password=b0db62a2939741f3ba560ca6861bc582"/>
+    </Parameters>
+  </Providers>
+</ProviderConfig>
