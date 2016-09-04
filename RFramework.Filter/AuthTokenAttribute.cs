@@ -18,11 +18,11 @@ namespace RFramework.Filter
         protected virtual void HandleUnauthorizedRequest(HttpActionContext actionContext)
         {
 
-            if (actionContext==null)
+            if (actionContext == null)
             {
                 throw new ArgumentException("Filter Error:actionContext is null.");
             }
-            throw new RFramework.RException.RException("00004","Token 验证失效");
+            throw new RFramework.RException.RException("00004", "Token 验证失效");
         }
 
         private static bool SkipAuthorization(HttpActionContext actionContext)
@@ -48,12 +48,20 @@ namespace RFramework.Filter
 
         private bool CheckToken(String TokenValue)
         {
-            string CacheKey=CacheKey.get
+            string strCacheKey = RFramework.Const.CacheKey.GetTokenKey(TokenValue);
+            return cacheProvider.IsExist(strCacheKey);
         }
 
         public override void OnAuthorization(HttpActionContext actionContext)
         {
-            base.OnAuthorization(actionContext);
+            if (actionContext == null)
+            {
+                throw new ArgumentNullException("actionContext");
+            }
+            if (!SkipAuthorization(actionContext) && !IsAuthorized(actionContext))
+            {
+                HandleUnauthorizedRequest(actionContext);
+            }
         }
     }
 }

@@ -38,6 +38,10 @@
       <HintPath>..\packages\RFramework.Cache.1.0.0.0\lib\net452\RFramework.Cache.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="RFramework.Const, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RFramework.Const.1.0.0.0\lib\net452\RFramework.Const.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="RFramework.Exception, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\RFramework.Exception.1.0.0.0\lib\net452\RFramework.Exception.dll</HintPath>
       <Private>True</Private>
