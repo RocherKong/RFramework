@@ -8,4 +8,3 @@ E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.dll
 E:\R\RFramework\RFramework.Cache\bin\Release\Newtonsoft.Json.xml
 E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.pdb
 E:\R\RFramework\RFramework.Cache\bin\Release\StackExchange.Redis.xml
-E:\R\RFramework\RFramework.Cache\obj\Release\RFramework.Cache.csprojResolveAssemblyReference.cache

@@ -18,7 +18,7 @@ namespace RFramework.Const
 
         public static String GetTokenKey(string token)
         {
-            return String.Format(Token, token);
+            return String.Format(Token, token); 
         }
     }
 }

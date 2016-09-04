@@ -34,8 +34,8 @@
       <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="RFramework.Provider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\RFramework.Provider.1.0.0.0\lib\net452\RFramework.Provider.dll</HintPath>
+    <Reference Include="RFramework.Provider, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RFramework.Provider.1.0.1.0\lib\net452\RFramework.Provider.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="StackExchange.Redis, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -56,7 +56,6 @@
     <Compile Include="Interface\CacheProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="Provider.xml" />
   </ItemGroup>
