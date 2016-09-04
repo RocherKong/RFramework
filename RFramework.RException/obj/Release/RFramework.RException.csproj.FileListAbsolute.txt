@@ -1,0 +1,8 @@
+E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.RException.dll
+E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.RException.pdb
+E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.RException.dll
+E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.RException.pdb
+E:\R\RFramework\RFramework.RException\bin\Release\RFramework.RException.dll
+E:\R\RFramework\RFramework.RException\bin\Release\RFramework.RException.pdb
+E:\R\RFramework\RFramework.RException\obj\Release\RFramework.RException.dll
+E:\R\RFramework\RFramework.RException\obj\Release\RFramework.RException.pdb

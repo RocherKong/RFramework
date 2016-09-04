@@ -1,5 +1,4 @@
 E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.dll
 E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.pdb
-E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.RException.csprojResolveAssemblyReference.cache
 E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.dll
 E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.pdb

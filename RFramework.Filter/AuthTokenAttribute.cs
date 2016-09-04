@@ -21,7 +21,7 @@ namespace RFramework.Filter
             {
                 throw new ArgumentException("Filter Error:actionContext is null.");
             }
-            throw new RException()
+            throw new RFramework.RException.RException("00004","Token 验证失效");
         }
 
     }

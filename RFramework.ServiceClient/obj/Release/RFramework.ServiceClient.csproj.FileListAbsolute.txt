@@ -16,3 +16,4 @@ E:\R\RFramework\RFramework.ServiceClient\bin\Release\Newtonsoft.Json.xml
 E:\R\RFramework\RFramework.ServiceClient\bin\Release\System.Net.Http.Formatting.xml
 E:\R\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.dll
 E:\R\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.pdb
+E:\R\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.csprojResolveAssemblyReference.cache
