@@ -22,7 +22,7 @@ namespace RFramework.ServiceClient
             {
                 string serviceUrl = serviceResolver.Resolve(FullCode);
                 serviceUrl = String.Format("{0}?Token={1}", serviceUrl, ApiToken);
-                HttpContent reqContent = new StringContent(reqMsg, Encoding.UTF8);
+                HttpContent reqContent = new StringContent(reqMsg, Encoding.UTF8, "application/json");
                 HttpResponseMessage Resp = client.PostAsync(serviceUrl, reqContent).Result;
                 string resultStr = Resp.Content.ReadAsStringAsync().Result;
                 var respModel = JsonConvert.DeserializeObject<ResponseMessageWrap<object>>(resultStr);
