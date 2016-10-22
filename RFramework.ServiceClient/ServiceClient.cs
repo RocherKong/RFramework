@@ -16,6 +16,45 @@ namespace RFramework.ServiceClient
         private ServiceClientContext Context { get { return ServiceClientContext.Instance; } }
 
         public String ApiToken { get { return Context.ApiToken; } }
+        public async Task<string> ExecuteAsync(string FullCode, string reqMsg)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                string serviceUrl = serviceResolver.Resolve(FullCode);
+                serviceUrl = String.Format("{0}?Token={1}", serviceUrl, ApiToken);
+                HttpContent reqContent = new StringContent(reqMsg, Encoding.UTF8, "application/json");
+                HttpResponseMessage Resp = await client.PostAsync(serviceUrl, reqContent);
+                string resultStr = await Resp.Content.ReadAsStringAsync();
+                var respModel = JsonConvert.DeserializeObject<ResponseMessageWrap<object>>(resultStr);
+                if (respModel.ErrorCode == Context.FailureTokenCode)
+                {
+                    Context.ResetToken();
+                    resultStr = await ExecuteAsync(FullCode, reqMsg);
+                }
+                return resultStr;
+            }
+        }
+
+        public async Task<ResponseMessageWrap<TResponseBody>> ExecuteAsync<TRequest, TResponseBody>(string FullCode, TRequest reqMsg)
+            where TRequest : RequestMessage
+            where TResponseBody : class, new()
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                string serviceUrl = serviceResolver.Resolve(FullCode);
+                serviceUrl = String.Format("{0}?Token={1}", serviceUrl, ApiToken);
+                HttpResponseMessage resp = await client.PostAsJsonAsync<TRequest>(serviceUrl, reqMsg);
+                var respModel = JsonConvert.DeserializeObject<ResponseMessageWrap<TResponseBody>>(await resp.Content.ReadAsStringAsync());
+                if (respModel.ErrorCode == Context.FailureTokenCode)
+                {
+                    Context.ResetToken();
+                    respModel = await ExecuteAsync<TRequest, TResponseBody>(FullCode, reqMsg);
+                }
+                return respModel;
+            }
+        }
+
+
         public string Execute(string FullCode, string reqMsg)
         {
             using (HttpClient client = new HttpClient())

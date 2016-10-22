@@ -15,3 +15,14 @@ E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.csprojResolveAssemblyR
 E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.dll
 E:\R\RFramework\RFramework.Test\obj\Debug\RFramework.Test.pdb
 E:\R\RFramework\RFramework.Test\bin\Debug\Config\Provider.xml
+E:\R\RFramework\RFramework.Test\bin\Debug\RCMS.Center.Service.Message.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Message.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.ServiceClient.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RCMS.Center.Entity.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\R\RFramework\RFramework.Test\bin\Debug\RCMS.Center.Service.Message.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Message.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.ServiceClient.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\RCMS.Center.Entity.pdb
+E:\R\RFramework\RFramework.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\R\RFramework\RFramework.Test\bin\Debug\RFramework.Test.dll.config

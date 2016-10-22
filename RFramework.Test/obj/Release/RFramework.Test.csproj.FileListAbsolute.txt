@@ -15,3 +15,13 @@ E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.csprojResolveAssembl
 E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.dll
 E:\R\RFramework\RFramework.Test\obj\Release\RFramework.Test.pdb
 E:\R\RFramework\RFramework.Test\bin\Release\Config\Provider.xml
+E:\R\RFramework\RFramework.Test\bin\Release\RCMS.Center.Service.Message.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Message.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.ServiceClient.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RCMS.Center.Entity.dll
+E:\R\RFramework\RFramework.Test\bin\Release\System.Net.Http.Formatting.dll
+E:\R\RFramework\RFramework.Test\bin\Release\RCMS.Center.Service.Message.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.Message.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\RFramework.ServiceClient.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\RCMS.Center.Entity.pdb
+E:\R\RFramework\RFramework.Test\bin\Release\System.Net.Http.Formatting.xml

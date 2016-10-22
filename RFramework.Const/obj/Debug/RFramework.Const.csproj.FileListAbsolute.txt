@@ -1,0 +1,4 @@
+E:\R\RFramework\RFramework.Const\bin\Debug\RFramework.Const.dll
+E:\R\RFramework\RFramework.Const\bin\Debug\RFramework.Const.pdb
+E:\R\RFramework\RFramework.Const\obj\Debug\RFramework.Const.dll
+E:\R\RFramework\RFramework.Const\obj\Debug\RFramework.Const.pdb

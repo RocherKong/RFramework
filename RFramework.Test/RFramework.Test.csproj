@@ -35,6 +35,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -50,23 +54,41 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ProductCategory_Test.cs" />
     <Compile Include="Provider_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\RCMS\RCMS\RCMS.Center.Service.Message\RCMS.Center.Service.Message.csproj">
+      <Project>{17E9A912-F417-45C0-B79A-95D4CC9D604A}</Project>
+      <Name>RCMS.Center.Service.Message</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RFramework.Cache\RFramework.Cache.csproj">
       <Project>{269eb3f9-820d-49c4-8284-79f90add7fe9}</Project>
       <Name>RFramework.Cache</Name>
     </ProjectReference>
+    <ProjectReference Include="..\RFramework.Message\RFramework.Message.csproj">
+      <Project>{5160100E-F2F5-4875-8C2A-B8D1553BCE50}</Project>
+      <Name>RFramework.Message</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RFramework.Provider\RFramework.Provider.csproj">
       <Project>{20997077-1d8f-4b21-898a-c4793a3ef7f4}</Project>
       <Name>RFramework.Provider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RFramework.ServiceClient\RFramework.ServiceClient.csproj">
+      <Project>{3430B7E8-F258-4460-9CFB-A37147349825}</Project>
+      <Name>RFramework.ServiceClient</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Config\Provider.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Config\Services.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

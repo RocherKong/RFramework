@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ServiceConfig  xmlns="http://i4ta.com/schemas/ServiceConfig.xsd">
+  <Services>
+    <Service Code="P" Name="Public" Host="http://localhost:9003"  Description="公共服务">
+      <Controllers>
+        <Controller Code="A" Name="Address">
+          <Actions>
+            <!--FullCode => P.A.GetProvinces-->
+            <Action Code="GetProvinces" Name="GetProvinces" Description="获取省"/>
+            <Action Code="GetCitysByProvinceId" Name="GetCitysByProvinceId" Description="获取省下级市"/>
+            <Action Code="GetDistrictsByCityId" Name="GetDistrictsByCityId" Description="获取市下级区"/>
+          </Actions>
+        </Controller>
+        <Controller Code="Product" Name="Product">
+          <Actions>
+            <Action Code="Search" Name="Search" Description="商品搜索引擎"/>
+          </Actions>
+        </Controller>
+      </Controllers>
+    </Service>
+    <Service Code="T" Name="Center" Host="http://localhost:9001" Description="交易中心服务">
+      <Controllers>
+        <Controller Code="PC" Name="ProductCategory" Description="产品分类">
+          <Actions>
+            <Action Code="GetAll" Name="GetAll" Description="获取所有产品分类信息"/>
+          </Actions>
+        </Controller>
+      </Controllers>
+    </Service>
+  </Services>
+</ServiceConfig>

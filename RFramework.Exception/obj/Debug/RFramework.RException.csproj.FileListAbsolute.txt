@@ -1,0 +1,4 @@
+E:\R\RFramework\RFramework.Exception\bin\Debug\RFramework.Exception.dll
+E:\R\RFramework\RFramework.Exception\bin\Debug\RFramework.Exception.pdb
+E:\R\RFramework\RFramework.Exception\obj\Debug\RFramework.Exception.dll
+E:\R\RFramework\RFramework.Exception\obj\Debug\RFramework.Exception.pdb
