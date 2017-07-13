@@ -12,6 +12,7 @@ namespace RFramework.Test
     [TestClass]
     public class ProductCategory_Test
     {
+        
         //public RFramework.ServiceClient.ServiceClient client = new RFramework.ServiceClient.ServiceClient();
         //[TestMethod]
         //public void GetProductCategory_Test()
