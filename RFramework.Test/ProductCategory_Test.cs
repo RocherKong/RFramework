@@ -12,16 +12,16 @@ namespace RFramework.Test
     [TestClass]
     public class ProductCategory_Test
     {
-        public RFramework.ServiceClient.ServiceClient client = new RFramework.ServiceClient.ServiceClient();
-        [TestMethod]
-        public void GetProductCategory_Test()
-        {
+        //public RFramework.ServiceClient.ServiceClient client = new RFramework.ServiceClient.ServiceClient();
+        //[TestMethod]
+        //public void GetProductCategory_Test()
+        //{
 
-            //var resp = client.ExecuteAsync<NoneRequest, GetAllResponse>("T.PC.GetAll", new NoneRequest
-            //{
+        //    //var resp = client.ExecuteAsync<NoneRequest, GetAllResponse>("T.PC.GetAll", new NoneRequest
+        //    //{
 
-            //});
-          //  Assert.IsTrue( resp.Result.IsSuccess);
-        }
+        //    //});
+        //  //  Assert.IsTrue( resp.Result.IsSuccess);
+        //}
     }
 }
