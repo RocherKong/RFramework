@@ -4,7 +4,7 @@ build:
   include_nuget_references: true
   parallel: true
   verbosity: minimal
-  deploy:
+deploy:
   provider: NuGet
   server: NuGet.org                 # remove to push to NuGet.org
   api_key:
