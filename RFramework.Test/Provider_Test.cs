@@ -28,6 +28,6 @@ namespace RFramework.Test
         //    String token = Guid.NewGuid().ToString("N");
         //    bool isSuccess = CacheProvider.Add<String>(String.Format("Token:{0}", token), "这里是用户会话数据");
         //    Assert.IsTrue(isSuccess);
-        //}
+        //} 
     }
 }
