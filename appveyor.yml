@@ -4,3 +4,11 @@ build:
   include_nuget_references: true
   parallel: true
   verbosity: minimal
+  deploy:
+  provider: NuGet
+  server: NuGet.org                 # remove to push to NuGet.org
+  api_key:
+    secure: EHWdnDFgYARh44sJBqVOV6xfcn3MNt0e8m+yqk1UxQTCgSz1jPPSmVphrLbYfIBx
+  skip_symbols: false
+  symbol_server:           # remove to push symbols to SymbolSource.org
+  artifact: /.*\.nupkg/
