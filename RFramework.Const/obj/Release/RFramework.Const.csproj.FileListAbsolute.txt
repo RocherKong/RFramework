@@ -6,3 +6,4 @@ E:\WEB\Github\RFramework\RFramework.Const\bin\Release\RFramework.Const.dll
 E:\WEB\Github\RFramework\RFramework.Const\bin\Release\RFramework.Const.pdb
 E:\WEB\Github\RFramework\RFramework.Const\obj\Release\RFramework.Const.dll
 E:\WEB\Github\RFramework\RFramework.Const\obj\Release\RFramework.Const.pdb
+E:\WEB\Github\RFramework\RFramework.Const\obj\Release\RFramework.Const.csprojResolveAssemblyReference.cache

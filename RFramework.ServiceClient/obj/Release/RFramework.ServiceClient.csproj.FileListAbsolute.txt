@@ -28,3 +28,4 @@ E:\WEB\Github\RFramework\RFramework.ServiceClient\bin\Release\Newtonsoft.Json.xm
 E:\WEB\Github\RFramework\RFramework.ServiceClient\bin\Release\System.Net.Http.Formatting.xml
 E:\WEB\Github\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.dll
 E:\WEB\Github\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.pdb
+E:\WEB\Github\RFramework\RFramework.ServiceClient\obj\Release\RFramework.ServiceClient.csprojResolveAssemblyReference.cache

@@ -2,3 +2,4 @@ E:\WEB\Github\RFramework\RFramework.Configuration\bin\Release\RFramework.Configu
 E:\WEB\Github\RFramework\RFramework.Configuration\bin\Release\RFramework.Configuration.pdb
 E:\WEB\Github\RFramework\RFramework.Configuration\obj\Release\RFramework.Configuration.dll
 E:\WEB\Github\RFramework\RFramework.Configuration\obj\Release\RFramework.Configuration.pdb
+E:\WEB\Github\RFramework\RFramework.Configuration\obj\Release\RFramework.Configuration.csprojResolveAssemblyReference.cache

@@ -7,3 +7,4 @@ E:\WEB\Github\RFramework\RFramework.Provider\bin\Release\RFramework.Provider.dll
 E:\WEB\Github\RFramework\RFramework.Provider\bin\Release\RFramework.Provider.pdb
 E:\WEB\Github\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.dll
 E:\WEB\Github\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.pdb
+E:\WEB\Github\RFramework\RFramework.Provider\obj\Release\RFramework.Provider.csprojResolveAssemblyReference.cache
