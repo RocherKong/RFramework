@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.RException", "RF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Const", "RFramework.Const\RFramework.Const.csproj", "{5C3C0780-31F7-4A90-A545-544FA26A2799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCMS.Center.Service.Message", "..\RCMS\RCMS\RCMS.Center.Service.Message\RCMS.Center.Service.Message.csproj", "{17E9A912-F417-45C0-B79A-95D4CC9D604A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFramework.Configuration", "RFramework.Configuration\RFramework.Configuration.csproj", "{0E00CE0D-75B3-4E1D-8B3C-39092ECA8D3E}"
 EndProject
 Global
