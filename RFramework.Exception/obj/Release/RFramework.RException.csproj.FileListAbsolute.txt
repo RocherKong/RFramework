@@ -2,3 +2,7 @@ E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.dll
 E:\R\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.pdb
 E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.dll
 E:\R\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.pdb
+E:\WEB\Github\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.dll
+E:\WEB\Github\RFramework\RFramework.Exception\bin\Release\RFramework.Exception.pdb
+E:\WEB\Github\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.dll
+E:\WEB\Github\RFramework\RFramework.Exception\obj\Release\RFramework.Exception.pdb

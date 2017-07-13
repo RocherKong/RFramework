@@ -2,3 +2,7 @@ E:\R\RFramework\RFramework.Const\bin\Release\RFramework.Const.dll
 E:\R\RFramework\RFramework.Const\bin\Release\RFramework.Const.pdb
 E:\R\RFramework\RFramework.Const\obj\Release\RFramework.Const.dll
 E:\R\RFramework\RFramework.Const\obj\Release\RFramework.Const.pdb
+E:\WEB\Github\RFramework\RFramework.Const\bin\Release\RFramework.Const.dll
+E:\WEB\Github\RFramework\RFramework.Const\bin\Release\RFramework.Const.pdb
+E:\WEB\Github\RFramework\RFramework.Const\obj\Release\RFramework.Const.dll
+E:\WEB\Github\RFramework\RFramework.Const\obj\Release\RFramework.Const.pdb

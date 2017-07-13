@@ -7,3 +7,7 @@ E:\R\RFramework\RFramework.Message\bin\Release\RFramework.Message.pdb
 E:\R\RFramework\RFramework.Message\obj\Release\RFramework.Message.dll
 E:\R\RFramework\RFramework.Message\obj\Release\RFramework.Message.pdb
 E:\R\RFramework\RFramework.Message\obj\Release\RFramework.Message.csprojResolveAssemblyReference.cache
+E:\WEB\Github\RFramework\RFramework.Message\bin\Release\RFramework.Message.dll
+E:\WEB\Github\RFramework\RFramework.Message\bin\Release\RFramework.Message.pdb
+E:\WEB\Github\RFramework\RFramework.Message\obj\Release\RFramework.Message.dll
+E:\WEB\Github\RFramework\RFramework.Message\obj\Release\RFramework.Message.pdb
