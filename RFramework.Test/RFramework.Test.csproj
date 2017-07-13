@@ -59,10 +59,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\RCMS\RCMS\RCMS.Center.Service.Message\RCMS.Center.Service.Message.csproj">
-      <Project>{17E9A912-F417-45C0-B79A-95D4CC9D604A}</Project>
-      <Name>RCMS.Center.Service.Message</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RFramework.Cache\RFramework.Cache.csproj">
       <Project>{269eb3f9-820d-49c4-8284-79f90add7fe9}</Project>
       <Name>RFramework.Cache</Name>
